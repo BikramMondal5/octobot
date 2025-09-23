@@ -1,4 +1,4 @@
-# 🤖📡 GitHub-Tracker
+# 🤖📡 GitBot-Tracker
 
 A Telegram bot that tracks GitHub activity in real-time. Perfect for teams, group projects, and organizations to stay updated on commits, merges, and pull requests.
 
