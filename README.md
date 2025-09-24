@@ -22,11 +22,11 @@ A Telegram bot that tracks GitHub activity in real-time. Perfect for teams, grou
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/BikramMondal5/GitHub-Activity-Tracker-Bot.git
+git clone https://github.com/BikramMondal5/GitBot-Tracker.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd GitHub-Activity-Tracker-Bot
+cd GitBot-Tracker
 ```
 3. Create and activate a virtual environment (optional but recommended):
 ```bash
